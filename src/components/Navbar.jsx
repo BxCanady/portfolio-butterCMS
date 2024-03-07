@@ -39,7 +39,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to='work' smooth={true} duration={500}>
-            Work
+            Projects
           </Link>
         </li>
         <li>
@@ -96,7 +96,8 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href="https://www.linkedin.com/in/brandon-canady-252-"
+              target="_blank" rel="noopener noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>

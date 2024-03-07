@@ -34,11 +34,14 @@ const Home = () => {
         </div>
       </div>
       <div>
-        <img
-          src={me}  
-          alt="my profile"
-          className="rounded-2xl mx-auto w-2/3 md:w-full"
-        />
+      <img
+  src={me}  
+  alt="my profile"
+  className="rounded-2xl mx-auto w-2/3 md:w-full"
+  style={{
+    boxShadow: '0px 4px 8px rgba(0, 0, 0, 0.3)' // Adjust the shadow properties as needed
+  }}
+/>
       </div>
     </div>
   </div>
