@@ -12,10 +12,10 @@ const Home = () => {
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
-          I'm a FullStack Software Developer
+          I'm a FullStack Software Engineer 
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-        I realized that scalability was not just a technical challenge, but a mindset.<br></br>
+        I realized that scalability was not just a technical challenge ~ but a mindset.<br></br>
         My journey as a software developer has been a testament to the power of perseverance and the thrill of innovation.
         </p>
         

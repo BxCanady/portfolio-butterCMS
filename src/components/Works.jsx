@@ -45,11 +45,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Shopify Ecommerce Website 
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>Ecommerce Site built with Next.js and Shopify </p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://www.socialstatuspgh.com'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
