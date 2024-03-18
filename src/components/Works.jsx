@@ -1,5 +1,6 @@
 import React from 'react';
 import code from '../assets/code2.png';
+import next from '../assets/next.png';
 
 const Works = () => {
   return (
@@ -39,7 +40,7 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${next})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
